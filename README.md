@@ -37,4 +37,4 @@ This project was created by Khalid. Any contributions or suggestions are welcome
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
+This project is licensed under the [GNU GENERAL PUBLIC (LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
